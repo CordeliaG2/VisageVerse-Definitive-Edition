@@ -1,0 +1,81 @@
+Persona detectada: negro_satanico, Fecha y hora: 2025-11-12 11:13:20,Entrada
+Persona detectada: negro_cristiano, Fecha y hora: 2025-11-12 11:18:21,Entrada
+Persona detectada: naomi danae _salazar lino, Fecha y hora: 2025-11-12 11:28:59,Entrada
+Persona detectada: cristian_de la cruz, Fecha y hora: 2025-11-12 11:30:39,Entrada
+Persona detectada: karen andrea_flores sanchez, Fecha y hora: 2025-11-12 11:32:09,Entrada
+Persona detectada: cristian_de la cruz, Fecha y hora: 2025-11-12 11:33:36,Salida
+Persona detectada: oso_garcia, Fecha y hora: 2025-11-12 11:34:37,Entrada
+Persona detectada: jesus_Martinez, Fecha y hora: 2025-11-12 11:35:47,Entrada
+Persona detectada: rafael _perez, Fecha y hora: 2025-11-12 11:36:52,Entrada
+Persona detectada: sol skarlet_becerril lara, Fecha y hora: 2025-11-12 11:37:52,Entrada
+Persona detectada: fernando_flores juarez, Fecha y hora: 2025-11-12 11:41:15,Entrada
+Persona detectada: carlos santiago_, Fecha y hora: 2025-11-12 11:42:25,Entrada
+Persona detectada: victor _medina delgadillo, Fecha y hora: 2025-11-12 11:43:39,Entrada
+Persona detectada: Elizabeth_Diaz, Fecha y hora: 2025-11-12 11:45:08,Entrada
+Persona detectada: ariadna_serrano, Fecha y hora: 2025-11-12 11:47:14,Entrada
+Persona detectada: armando gutierrez_, Fecha y hora: 2025-11-12 11:49:07,Entrada
+Persona detectada: carlos santiago_, Fecha y hora: 2025-11-12 11:50:27,Salida
+Persona detectada: rafael _perez, Fecha y hora: 2025-11-12 11:51:55,Entrada
+Persona detectada: rafael _perez, Fecha y hora: 2025-11-12 11:53:35,Salida
+Persona detectada: carlos santiago_, Fecha y hora: 2025-11-12 11:55:09,Entrada
+Persona detectada: rodrigo_silva mota, Fecha y hora: 2025-11-12 11:56:47,Entrada
+Persona detectada: santiago_maravilla solis, Fecha y hora: 2025-11-12 11:58:24,Entrada
+Persona detectada: axel enriquez_, Fecha y hora: 2025-11-12 12:00:09,Entrada
+Persona detectada: victor _medina delgadillo, Fecha y hora: 2025-11-12 12:01:09,Salida
+Persona detectada: uriel_olvera, Fecha y hora: 2025-11-12 12:02:30,Entrada
+Persona detectada: Kevin_Alvarado, Fecha y hora: 2025-11-12 12:33:27,Entrada
+Persona detectada: carlos_guzman, Fecha y hora: 2025-11-12 12:34:46,Entrada
+Persona detectada: Bryan_Vazquez, Fecha y hora: 2025-11-12 12:36:05,Entrada
+Persona detectada: Bryan_Vazquez, Fecha y hora: 2025-11-12 12:37:35,Salida
+Persona detectada: Bryan_Vazquez, Fecha y hora: 2025-11-12 12:38:36,Entrada
+Persona detectada: mario_cruz, Fecha y hora: 2025-11-12 12:39:59,Entrada
+Persona detectada: salvador _castillo, Fecha y hora: 2025-11-12 12:41:19,Entrada
+Persona detectada: Areli_Angeles, Fecha y hora: 2025-11-12 12:42:27,Entrada
+Persona detectada: axel enriquez_, Fecha y hora: 2025-11-12 12:44:02,Entrada
+Persona detectada: rafael _perez, Fecha y hora: 2025-11-12 12:45:54,Entrada
+Persona detectada: Luis_Mercado, Fecha y hora: 2025-11-12 13:02:12,Entrada
+Persona detectada: farid el dios_garcia, Fecha y hora: 2025-11-12 13:03:32,Entrada
+Persona detectada: Neftali_Merino, Fecha y hora: 2025-11-12 13:05:05,Entrada
+Persona detectada: Roberto_Correa, Fecha y hora: 2025-11-12 13:07:02,Entrada
+Persona detectada: Merid_Hernandez, Fecha y hora: 2025-11-12 13:16:52,Entrada
+Persona detectada: jose raul_guadarrama, Fecha y hora: 2025-11-12 13:18:13,Entrada
+Persona detectada: Paola_Colin, Fecha y hora: 2025-11-12 13:19:27,Entrada
+Persona detectada: adriana_salinas, Fecha y hora: 2025-11-12 13:20:48,Entrada
+Persona detectada: magali_balderas, Fecha y hora: 2025-11-12 13:22:10,Entrada
+Persona detectada: alberto _carrera, Fecha y hora: 2025-11-12 13:23:57,Entrada
+Persona detectada: emiliano_torres, Fecha y hora: 2025-11-12 13:25:17,Entrada
+Persona detectada: isaac _juarez, Fecha y hora: 2025-11-12 13:26:17,Entrada
+Persona detectada: Pamela_Ermita, Fecha y hora: 2025-11-12 13:27:38,Entrada
+Persona detectada: danae_fernandez, Fecha y hora: 2025-11-12 13:28:50,Entrada
+Persona detectada: emiliano_torres, Fecha y hora: 2025-11-12 13:30:29,Salida
+Persona detectada: monserrath_gutierrez, Fecha y hora: 2025-11-12 13:31:49,Entrada
+Persona detectada: Armando_Sanchez, Fecha y hora: 2025-11-12 13:33:30,Entrada
+Persona detectada: astrid_melo, Fecha y hora: 2025-11-12 13:34:39,Entrada
+Persona detectada: Miguel_Solorio, Fecha y hora: 2025-11-12 13:36:31,Entrada
+Persona detectada: Johann_Ramirez, Fecha y hora: 2025-11-12 13:37:33,Entrada
+Persona detectada: juan pablo_de la torre cervantes, Fecha y hora: 2025-11-12 13:38:39,Entrada
+Persona detectada: test_, Fecha y hora: 2025-11-12 19:28:17,Entrada
+Persona detectada: test_, Fecha y hora: 2025-11-12 19:30:57,Entrada
+Persona detectada: test_, Fecha y hora: 2025-11-12 19:32:50,Entrada
+Persona detectada: test_, Fecha y hora: 2025-11-12 19:34:00,Salida
+Persona detectada: test_, Fecha y hora: 2025-11-12 19:40:06,Entrada
+Persona detectada: santiago_maravilla solis, Fecha y hora: 2025-11-12 20:25:04,Entrada
+Persona detectada: santiago_maravilla solis, Fecha y hora: 2025-11-12 20:26:35,Entrada
+Persona detectada: santiago_maravilla solis, Fecha y hora: 2025-11-12 20:27:37,Salida
+Persona detectada: santiago_maravilla solis, Fecha y hora: 2025-11-12 20:28:37,Entrada
+Persona detectada: santiago_maravilla solis, Fecha y hora: 2025-11-12 20:31:49,Entrada
+Persona detectada: santiago_maravilla solis, Fecha y hora: 2025-11-12 20:54:00,Entrada
+Persona detectada: santiago_maravilla solis, Fecha y hora: 2025-11-12 21:14:41,Entrada
+Persona detectada: magali_balderas, Fecha y hora: 2025-11-12 21:30:22,Entrada
+Persona detectada: adriana_salinas, Fecha y hora: 2025-11-12 21:37:14,Entrada
+Persona detectada: santiago_maravilla solis, Fecha y hora: 2025-11-12 21:39:57,Entrada
+Persona detectada: santiago_maravilla solis, Fecha y hora: 2025-11-12 21:40:57,Salida
+Persona detectada: santiago_maravilla solis, Fecha y hora: 2025-11-12 21:41:57,Entrada
+Persona detectada: santiago_maravilla solis, Fecha y hora: 2025-11-12 21:44:13,Entrada
+Persona detectada: santiago_maravilla solis, Fecha y hora: 2025-11-12 21:45:14,Salida
+Persona detectada: santiago_maravilla solis, Fecha y hora: 2025-11-12 21:51:24,Entrada
+Persona detectada: santiago_maravilla solis, Fecha y hora: 2025-11-12 21:52:31,Salida
+Persona detectada: magali_balderas, Fecha y hora: 2025-11-12 22:10:45,Entrada
+Persona detectada: magali_balderas, Fecha y hora: 2025-11-12 22:16:50,Entrada
+Persona detectada: magali_balderas, Fecha y hora: 2025-11-12 22:28:45,Entrada
+Persona detectada: magali_balderas, Fecha y hora: 2025-11-12 22:30:04,Salida
