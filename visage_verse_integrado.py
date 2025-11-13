@@ -1,3 +1,38 @@
+import importlib
+import subprocess
+import sys
+
+def ensure_package(module_name, package_name=None):
+    """
+    Verifica si un paquete está instalado, y si no, lo instala automáticamente con pip.
+    """
+    package_name = package_name or module_name
+    try:
+        importlib.import_module(module_name)
+        print(f"✅ {package_name} ya está instalado.")
+    except ImportError:
+        print(f"📦 Instalando {package_name}...")
+        try:
+            result = subprocess.run(
+                [sys.executable, "-m", "pip", "install", "--upgrade", package_name],
+                check=True,
+                capture_output=True,
+                text=True
+            )
+            print(result.stdout)
+            print(f"✅ {package_name} instalado correctamente.")
+        except subprocess.CalledProcessError as e:
+            print(f"❌ Error instalando {package_name}:")
+            print(e.stderr)
+            print("Intenta instalarlo manualmente ejecutando:")
+            print(f"    {sys.executable} -m pip install {package_name}")
+            sys.exit(1)  # Sale si no puede instalar
+
+# --- Verificar dependencias ---
+ensure_package("cv2", "opencv-contrib-python")
+ensure_package("numpy")
+
+
 import cv2
 import os
 import numpy as np
