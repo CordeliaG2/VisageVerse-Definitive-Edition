@@ -252,6 +252,34 @@ def case3():
     cap.release()
     cv2.destroyAllWindows()
 
+def case4():
+    dataPath = 'Data'
+    peopleList = os.listdir(dataPath)
+    print('Lista de personas: ', peopleList)
+
+    labels = []
+    facesData = []
+    label = 0
+
+    for nameDir in peopleList:
+        personPath = dataPath + '/' + nameDir
+        print('Leyendo las imágenes')
+
+        for fileName in os.listdir(personPath):
+            print('Rostros: ', nameDir + '/' + fileName)
+            labels.append(label)
+            facesData.append(cv2.imread(personPath+'/'+fileName,0))
+        label = label + 1
+
+    face_recognizer = cv2.face.LBPHFaceRecognizer_create()
+
+    print("Entrenando...")
+    face_recognizer.train(facesData, np.array(labels))
+
+    face_recognizer.write('models/modeloLBPHFace.xml')
+    print("Modelo almacenado...")
+    cv2.destroyAllWindows()
+
 def main():
     global ventana, etiqueta_estado, boton_reconocimiento
 
